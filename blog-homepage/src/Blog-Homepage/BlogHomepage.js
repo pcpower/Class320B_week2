@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import "./Blog.css";
-import { BlogData, BlogDataYourArticles } from './BlogData'
+import { BlogData } from './BlogData'
 
 
 class BlogHomePage extends Component {
@@ -44,13 +44,7 @@ class BlogHomePage extends Component {
                                 
                             </h3>                             
                         </div>
-                                
-                                                            
-                                
-                                
 
-
-        
                     );
                 })}
                 
