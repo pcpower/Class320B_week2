@@ -44,10 +44,8 @@ export const BlogData = [
     "minutesToRead": 8,
     "hasAudioAvailable": false,
     "memberPreview": true
-}
-]
+},
 
-export const BlogDataYourArticles = [
 
     {
         "title": "The 7 Habits of Highly Creative People",
