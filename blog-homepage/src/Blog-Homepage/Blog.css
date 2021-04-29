@@ -1,0 +1,25 @@
+.App {
+    text-align: center;
+}
+
+.blog-container {
+    background-color: #ffffff;
+    min-height: 10vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(6px + 2vmin);
+    color: #000000;
+}
+
+.header {
+    background-color: #fffdfd;
+    min-height: 10vh;
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+    justify-content: center;
+    font-size: calc(20px + 2vmin);
+    color: #000000;
+  }
